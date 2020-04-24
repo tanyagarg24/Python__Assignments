@@ -63,7 +63,6 @@ print(lst3)
 
 # In[27]:
 
-
 #find common elements in list(strings)
 lst1 = ['a','b','c'] 
 lst2 = ['c','b','e'] 
